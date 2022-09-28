@@ -1,16 +1,29 @@
 ---
-title: About me
-subtitle: Why you'd want to go on a date with me
-comments: false
+title: Laboratorio de Redes Sociales 
+subtitle: objetivos / intereses 
+comments: TRUE
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Esta página web tiene como objetivo ser un repositorio de proyectos de investigación, 
+material pedagógico y cursos de investigadores(as) asociados al proyecto FONDECYT 1171426. 
+En esta podrás encontrar modelos análisis, códigos reproducibles y adelantos de investigación. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
+**Nuestros objetivos** 
 
-### my history
+- Establecer un grupo excelencia para el análisis de redes sociales en Chile
+- Proveer análisis de redes sobre problemas sustantivos de la realidad social
+- Estimular el interes con respecto al análisis de redes en Chile y Latinoamérica
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Hacer contribuciones importantes a la literatura de análisis de redes sociales
+
+**Nuestros intereses**
+
+- Métodos descriptivos y visualización
+- Modelización estadística de redes sociales
+- Métodos mixtos para redes sociales
+- Redes sociales y movimientos sociales
+- Redes sociales y preferencias distributivas
+- Redes sociales, desigualdades y estratificación
+- Análisis longitudinal de redes
+
