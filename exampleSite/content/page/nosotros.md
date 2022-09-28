@@ -4,6 +4,8 @@ subtitle: objetivos / intereses
 comments: TRUE
 ---
 
+&nbsp;
+&nbsp;
 
 Esta página web tiene como objetivo ser un repositorio de proyectos de investigación, material pedagógico y cursos de investigadores(as) asociados al proyecto FONDECYT 1171426. En esta podrás encontrar modelos análisis, códigos reproducibles y adelantos de investigación. 
 
@@ -40,4 +42,6 @@ Esta página web tiene como objetivo ser un repositorio de proyectos de investig
 - Redes sociales, desigualdades y estratificación
 
 - Análisis longitudinal de redes
+
+&nbsp;
 
